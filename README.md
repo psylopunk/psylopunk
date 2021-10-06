@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm Maxim Gurov
+I'm Maxim Gurov<br>
 A Senior Backend Developer on Go and Python
 
 
