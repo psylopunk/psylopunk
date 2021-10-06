@@ -4,12 +4,11 @@
 
 ## About me
 
-I'm Maxim Gurov. A Senior Backend Developer on Go and Python. Community is :heart:. I preach privacy online.
+I'm Maxim Gurov
+A Senior Backend Developer on Go and Python
 
 
 
 Telegram: <a href="https://t.me/psylopunk">@psylopunk</a>
 
 Email: <a href="mailto:psylopunk@protonmail.com">psylopunk@protonmail.com</a>
-
-<a href="https://gurov.co/">My business card</a>
