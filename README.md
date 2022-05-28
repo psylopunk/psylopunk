@@ -1,7 +1,5 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
 ## About me
 
 I'm Maxim Gurov<br>
