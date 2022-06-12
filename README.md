@@ -10,3 +10,5 @@
 #### FIND ME
 - Telegram: <a href="https://t.me/psylopunk">@psylopunk</a>
 - Email: <a href="mailto:psylopunk@protonmail.com">psylopunk@protonmail.com</a> ([PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/BA4D2833793DA980E2120E20F0F2501381296C5B))
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=psylopunk.readme&left_color=black&right_color=red)
